@@ -1,6 +1,6 @@
 ---
 Title: "HackerCard"
-Author: "Your name (name or slack username)"
-Description: "Describe your PCB project in a short sentence!"
-Created On: "10/7/2025"
+Author: "Ellie Bonilla)"
+Description: "A PCB hacker card that refeclts my personality"
+Created On: "8/8/2025"
 ---
