@@ -21,4 +21,4 @@ I have been trying to fix the probelum for soo long, i am just restarting it thi
 <img width="526" height="502" alt="image" src="https://github.com/user-attachments/assets/d49c7831-a574-485d-a854-df3048e823d9" />
 
 
-**Total time spent: 1.5h**
+**Total time spent: 30m**
